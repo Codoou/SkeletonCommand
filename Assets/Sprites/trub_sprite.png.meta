@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 4c0d63287e54f474991234a36ecc4243
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -84401378769580734
+    second: trub_sprite_0
+  - first:
+      213: -4971813042183724148
+    second: trub_sprite_1
+  - first:
+      213: -2312535794358763254
+    second: trub_sprite_2
+  - first:
+      213: 1888696562681797081
+    second: trub_sprite_3
+  - first:
+      213: 5740992671753811826
+    second: trub_sprite_4
+  - first:
+      213: -3545512956502705094
+    second: trub_sprite_5
+  - first:
+      213: 692338371730471918
+    second: trub_sprite_6
+  - first:
+      213: -1482026256796352135
+    second: trub_sprite_7
+  - first:
+      213: 6920189285647916723
+    second: trub_sprite_8
+  - first:
+      213: -2500314559347995638
+    second: trub_sprite_9
+  - first:
+      213: -3510139397158048264
+    second: trub_sprite_10
+  - first:
+      213: 1281345170810576603
+    second: trub_sprite_11
+  - first:
+      213: 1363075347565860465
+    second: trub_sprite_12
+  - first:
+      213: 7285612699919880891
+    second: trub_sprite_13
+  - first:
+      213: -4483458197271849523
+    second: trub_sprite_14
+  - first:
+      213: -1730150885865013162
+    second: trub_sprite_15
+  - first:
+      213: -1623475572099262295
+    second: trub_sprite_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trub_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 380
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc2e7a46524def0800000000000000
+      internalID: -84401378769580734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 390
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c832cf24162900bb0800000000000000
+      internalID: -4971813042183724148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 51
+        width: 375
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ced682f838efd0800000000000000
+      internalID: -2312535794358763254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 51
+        width: 144
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9562b548ff53a10800000000000000
+      internalID: 1888696562681797081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 51
+        width: 143
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b10afa6a1caf40800000000000000
+      internalID: 5740992671753811826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 389
+        width: 126
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7c1140cecbcec0800000000000000
+      internalID: -3545512956502705094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 44
+        width: 146
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4862509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebfd57b41eab9900800000000000000
+      internalID: 692338371730471918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 223
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9710ad7b8f8ce6be0800000000000000
+      internalID: -1482026256796352135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be12859d73790060800000000000000
+      internalID: 6920189285647916723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 110
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c435fc7291d4dd0800000000000000
+      internalID: -2500314559347995638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trub_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 46
+        width: 65
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6a48d0da794fc0800000000000000
+      internalID: -3510139397158048264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
